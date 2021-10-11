@@ -5,7 +5,7 @@
 - 📫 How to reach me- 
 - Whatsapp- +2347015367977
 - email: Support@sammyloaded.com
-- Portfolio - https://asammyloaded.org.ng
+- Portfolio - https://sammyloaded.org.ng
 - Web Hosting - https://www.kinghost.com.ng
 
 <!---
