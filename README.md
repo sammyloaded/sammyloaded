@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Python and SQL...
 - 💞️ I’m looking to collaborate Partners and Web developers ...
 - 📫 How to reach me- 
-- Whatsapp- +234116281721
+- Whatsapp- +2347015367977
 - email: Support@sammyloaded.com
+- Portfolio - https://asammyloaded.org.ng
+- Web Hosting - https://www.kinghost.com.ng
 
 <!---
 sammyloaded/sammyloaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
