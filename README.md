@@ -7,7 +7,8 @@
 - Phone Call: +2348116281721
 - email: Sammyloadedcon@gmail.com
 - Portfolio - https://sammyloaded.org.ng
-- Web Hosting - https://tinyurl.com/yjt3p4js
+- Web Hosting - https://tinyurl.com/46efwksw
+- Cheap Domain Name: https://tinyurl.com/46efwksw
 
 <!---
 sammyloaded/sammyloaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
