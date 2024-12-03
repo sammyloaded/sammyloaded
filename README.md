@@ -13,7 +13,6 @@
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammyloaded&theme=dark&hide_border=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=dark)
 
 <!---
 sammyloaded/sammyloaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
