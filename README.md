@@ -9,11 +9,10 @@
 - Portfolio - https://sammyloaded.org.ng
 - Web Hosting - https://tinyurl.com/46efwksw
 - Cheap Domain Name: https://tinyurl.com/46efwksw
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammyloaded&theme=dark&hide_border=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammyloaded&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=dark)
 
 <!---
 sammyloaded/sammyloaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
