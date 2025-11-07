@@ -57,7 +57,7 @@ I'm open to working with businesses, affiliate partners, and web developers. Whe
 * Instagram: [@sammyloaded48](https://instagram.com/sammyloaded48)
 * LinkedIn: [Solomon Ayomide Samuel](https://www.linkedin.com/in/sammyloaded48)
 * Facebook: [@sammyloaded48](https://facebook.com/sammyloaded48)
-* Tiktok: [@smmyloaded48](https://tiktok.com/@sammyloaded48) 
+* Tiktok: [@sammyloaded48](https://tiktok.com/@sammyloaded48) 
 
 ---
 
