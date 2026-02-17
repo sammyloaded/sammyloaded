@@ -67,11 +67,11 @@ I'm open to working with businesses, affiliate partners, and web developers. Whe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sammyloaded&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sammyloaded&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=radical&cache_seconds=1800)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark&no-frame=true&margin-w=10)
 
