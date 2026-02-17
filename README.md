@@ -63,7 +63,7 @@ I'm open to working with businesses, affiliate partners, and web developers. Whe
 
 ### GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded\&show_icons=true\&hide_title=true\&hide=prs\&count_private=true\&theme=dark)
+![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
 
 ---
 
@@ -72,7 +72,12 @@ Feel free to reach out—I’m always up for exciting new projects and collabora
 
 ---
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammyloaded&theme=dark&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark)
+ ---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark&no-frame=true&row=1)
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=tokyonight)
+---
+
 
 
 <!---
