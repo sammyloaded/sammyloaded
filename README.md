@@ -3,7 +3,7 @@
 <h3 align="center">Senior Full-Stack SaaS Engineer | UI/UX Designer | Founder of Sammyloaded Concepts</h3>
 
 <p align="center">
-  <a href="https://sammyloaded.org.ng" target="_blank">
+  <a href="https://sammyloaded.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sammyloaded48" target="_blank">
