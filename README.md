@@ -1,90 +1,76 @@
+<h1 align="center">Hi, I'm Solomon Ayomide Samuel (sammyloaded) 👋</h1>
 
+<h3 align="center">Senior Full-Stack SaaS Engineer | UI/UX Designer | Founder of Sammyloaded Concepts</h3>
 
-# Hi, I'm Solomon Ayomide Samuel (sammyloaded) 👋
-
-🌍 **Web Designer** | 📊 **SEO Specialist** | 🎯 **Digital Marketer** | 👨‍🏫 **Coach/Mentor** | 💻 **Entrepreneur** | 🎥 **Content Creator**
-
-With over **7 years of experience**, I've had the pleasure of collaborating with clients both locally and internationally, delivering high-quality web design, SEO, and digital marketing services. My passion lies in helping businesses scale through impactful digital strategies.
-
----
-
-### What I Do:
-
-* **Web Design**: Crafting stunning and user-friendly websites that drive engagement and conversions.
-* **SEO**: Helping websites rank higher on Google and attract more organic traffic.
-* **Digital Marketing**: From social media to email marketing, I help businesses grow their digital presence.
-* **Consulting & Mentorship**: Guiding budding web developers and entrepreneurs to success.
-* **Content Creation**: Producing valuable content that educates and entertains.
+<p align="center">
+  <a href="https://sammyloaded.org.ng" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sammyloaded48" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sammyloaded48" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
-### Skills & Expertise:
+With over **7 years of experience** bridging the gap between engineering and design, I specialize in architecting scalable SaaS platforms, building robust API integrations, and crafting modern, minimalist user interfaces. I believe in Stripe-like aesthetics, clean visual hierarchies, and writing maintainable code that drives actual business growth. 
 
-* Frontend & Backend Web Development
-* SEO Optimization
-* Digital Marketing Strategy
-* E-commerce Solutions
-* Web Analytics & Data Insights
-* Social Media Management
-* Project Management
+### 🚀 What I Do
+- **SaaS Architecture & Development:** Building end-to-end platforms with complex routing, API proxies, and payment webhooks (e.g., AuthPadi, Padilogs).
+- **UI/UX & Frontend:** Designing crisp, responsive interfaces using modern frameworks and typography (Nunito Sans is a personal favorite).
+- **Digital Growth:** Combining my deep background in SEO and technical digital marketing to ensure the products I build actually reach their target audience.
 
----
+### 💻 My Tech Stack
 
-### My Tech Stack:
+**Frontend & Design**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-* **Frontend**: HTML, CSS, JavaScript, React
-* **Backend**: PHP, MySQL, WordPress
-* **SEO Tools**: Google Analytics, SEMrush, Ahrefs
-* **Marketing**: Google Ads, Facebook Ads, Email Campaigns
+**Backend & Databases**  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
----
-
-### Let's Collaborate
-
-I'm open to working with businesses, affiliate partners, and web developers. Whether you're looking for a website redesign, SEO consultation, or digital marketing strategies, I’m here to help.
-
-* 📱 **WhatsApp**: +2347015367977
-* 📞 **Phone**: +2349114929457
-* 📧 **Email**: [sammyloadedcon@gmail.com](mailto:sammyloadedcon@gmail.com)
-* 🌐 **Portfolio**: [sammyloaded.org.ng](https://sammyloaded.org.ng)
-
+**Tools & Environment**  
+![Laragon](https://img.shields.io/badge/Laragon-blue?style=for-the-badge) ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-green?style=for-the-badge) ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cPanel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### Connect with Me:
-
-* Twitter: [@sammyloaded48](https://twitter.com/sammyloaded48)
-* Instagram: [@sammyloaded48](https://instagram.com/sammyloaded48)
-* LinkedIn: [Solomon Ayomide Samuel](https://www.linkedin.com/in/sammyloaded48)
-* Facebook: [@sammyloaded48](https://facebook.com/sammyloaded48)
-* Tiktok: [@sammyloaded48](https://tiktok.com/@sammyloaded48) 
+### ⚡ Beyond the Screen
+When I'm not pushing code, designing layouts, or consulting for businesses, you can find me on the rink serving as the Captain and Defender for the White Wolves Hockey Club in Ogun State. 🏒
 
 ---
 
-### GitHub Stats:
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=radical&cache_seconds=1800" alt="Sammyloaded's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sammyloaded&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Let's Collaborate!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyloaded&show_icons=true&theme=radical&cache_seconds=1800)
+Whether you need a senior engineer to scale your SaaS, a redesign of your web platform, or just want to talk tech and hockey:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sammyloaded&theme=radical)
+- 📧 **Email**: [sammyloadedcon@gmail.com](mailto:sammyloadedcon@gmail.com)
+- 📱 **WhatsApp**: [+2347015367977](https://wa.me/2347015367977)
+- 🌐 **Portfolio**: [sammyloaded.org.ng](https://sammyloaded.org.ng)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyloaded&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sammyloaded&theme=onedark&no-frame=true&margin-w=10)
-
-
----
-
-Feel free to reach out—I’m always up for exciting new projects and collaborations!
-
----
-
-
+<br/>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sammyloaded/count.svg" alt="Profile Views" />
+</p>
 
 <!---
 sammyloaded/sammyloaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
