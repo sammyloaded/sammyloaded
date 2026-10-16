@@ -64,7 +64,7 @@ Whether you need a senior engineer to scale your SaaS, a redesign of your web pl
 
 - 📧 **Email**: [sammyloadedcon@gmail.com](mailto:sammyloadedcon@gmail.com)
 - 📱 **WhatsApp**: [+2347015367977](https://wa.me/2347015367977)
-- 🌐 **Portfolio**: [sammyloaded.org.ng](https://sammyloaded.org.ng)
+- 🌐 **Portfolio**: [sammyloaded.dev](https://sammyloaded.dev)
 
 <br/>
 <p align="center">
